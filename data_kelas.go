@@ -51,9 +51,11 @@ func main() {
 			ruben.tampil()
 		case "10":
 			denada.tampil()
+		default:
+			fmt.Println("No data....")
 		}
 	} else {
-		fmt.Println("too much argument")
+		fmt.Println("Invalid Argument / Empty argument")
 	}
 
 }
