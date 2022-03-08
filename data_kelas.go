@@ -21,7 +21,7 @@ func main() {
 	faris := kelas{Nama: "Ahmad Faris", Alamat: "1", Pekerjaan: "1", Alasan: "1"}
 	rakha := kelas{Nama: "Rakha Rizqllah Pratama Saputra", Alamat: "2", Pekerjaan: "2", Alasan: "2"}
 	diva := kelas{Nama: "I Gede Diva Dwijayana", Alamat: "Karangasen, Bali", Pekerjaan: "Mahasiswa", Alasan: "karena penasaran dengan bahasa pemrograman Golang, ingin mempelajarinya, dan membuat sebuah aplikasi dari Golang"}
-	daffa := kelas{Nama: "Muhammad Daffa Haryadi Putra", Alamat: "4", Pekerjaan: "4", Alasan: "4"}
+	daffa := kelas{Nama: "Muhammad Daffa Haryadi Putra", Alamat: "Depok", Pekerjaan: "Backend Devs", Alasan: "Melanjutkan Pembelajaran golang dan project"}
 	yoga := kelas{Nama: "M yoga irvandi", Alamat: "Sumatra Selatan", Pekerjaan: "Mahasiswa", Alasan: "karena Golang merupakan bahasa pemrograman masih tergolong baru,yg menarik untuk di pelajari, bagi saya."}
 	azhar := kelas{Nama: "Wafianda Azhar", Alamat: "6", Pekerjaan: "6", Alasan: "6"}
 	haiqal := kelas{Nama: "Muhamad Haiqal Malik", Alamat: "7", Pekerjaan: "7", Alasan: "7"}
